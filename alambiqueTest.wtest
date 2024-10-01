@@ -1,4 +1,5 @@
-import alambique.*
+import luke.*
+import vehiculos.*
 
 describe "group of tests" {
 
